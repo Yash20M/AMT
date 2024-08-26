@@ -169,6 +169,7 @@ body {
     align-items: center;
     justify-content: center;
     width: 100%;
+    gap: 3rem;
 
     .discover-heading {
       font-size: 2.7rem;
@@ -178,7 +179,6 @@ body {
   }
 
   .discover-content {
-    border: 2px solid aqua;
     width: 70%;
     display: flex;
     justify-content: center;
